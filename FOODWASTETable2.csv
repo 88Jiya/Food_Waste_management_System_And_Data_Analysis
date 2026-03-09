@@ -1,0 +1,398 @@
+date,city,AREA_TYPE,food_type,reason,quantity_kg
+2025-01-01,Mumbai,Urban," Packed Food","Improper Storage",50.00
+2025-01-02,pune,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-01-03,Hyderabad,Rural,"Cooked Food","Event Leftover",52.00
+2025-01-04,Dehli,Urban,"Raw Vegetables","Low Demand",53.00
+2025-01-05,Ahmedabad,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-01-06,Bengaluru,Rural,"Cooked Food",Overproduction,51.00
+2025-01-07,Chennai,Urban," Packed Food","Event Leftover",52.00
+2025-01-08,Kolkata,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-01-09,Mumbai,Rural,"Cooked Food","Improper Storage",50.00
+2025-01-10,pune,Urban,"Raw Vegetables",Overproduction,51.00
+2025-01-11,Hyderabad,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-01-12,Dehli,Rural,"Cooked Food","Low Demand",53.00
+2025-01-13,Ahmedabad,Urban," Packed Food","Improper Storage",50.00
+2025-01-14,Bengaluru,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-01-15,Chennai,Rural,"Cooked Food","Event Leftover",52.00
+2025-01-16,Kolkata,Urban,"Raw Vegetables","Low Demand",53.00
+2025-01-17,Mumbai,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-01-18,pune,Rural,"Cooked Food",Overproduction,51.00
+2025-01-19,Hyderabad,Urban," Packed Food","Event Leftover",52.00
+2025-01-20,Dehli,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-01-21,Ahmedabad,Rural,"Cooked Food","Improper Storage",50.00
+2025-01-22,Bengaluru,Urban,"Raw Vegetables",Overproduction,51.00
+2025-01-23,Chennai,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-01-24,Kolkata,Rural,"Cooked Food","Low Demand",53.00
+2025-01-25,Mumbai,Urban," Packed Food","Improper Storage",50.00
+2025-01-26,pune,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-01-27,Hyderabad,Rural,"Cooked Food","Event Leftover",52.00
+2025-01-28,Dehli,Urban,"Raw Vegetables","Low Demand",53.00
+2025-01-29,Ahmedabad,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-01-30,Bengaluru,Rural,"Cooked Food",Overproduction,51.00
+2025-01-31,Chennai,Urban," Packed Food","Event Leftover",52.00
+2025-02-01,Kolkata,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-02-02,Mumbai,Rural,"Cooked Food","Improper Storage",50.00
+2025-02-03,pune,Urban,"Raw Vegetables",Overproduction,51.00
+2025-02-04,Hyderabad,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-02-05,Dehli,Rural,"Cooked Food","Low Demand",53.00
+2025-02-06,Ahmedabad,Urban," Packed Food","Improper Storage",50.00
+2025-02-07,Bengaluru,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-02-08,Chennai,Rural,"Cooked Food","Event Leftover",52.00
+2025-02-09,Kolkata,Urban,"Raw Vegetables","Low Demand",53.00
+2025-02-10,Mumbai,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-02-11,pune,Rural,"Cooked Food",Overproduction,51.00
+2025-02-12,Hyderabad,Urban," Packed Food","Event Leftover",52.00
+2025-02-13,Dehli,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-02-14,Ahmedabad,Rural,"Cooked Food","Improper Storage",50.00
+2025-02-15,Bengaluru,Urban,"Raw Vegetables",Overproduction,51.00
+2025-02-16,Chennai,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-02-17,Kolkata,Rural,"Cooked Food","Low Demand",53.00
+2025-02-18,Mumbai,Urban," Packed Food","Improper Storage",50.00
+2025-02-19,pune,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-02-20,Hyderabad,Rural,"Cooked Food","Event Leftover",52.00
+2025-02-21,Dehli,Urban,"Raw Vegetables","Low Demand",53.00
+2025-02-22,Ahmedabad,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-02-23,Bengaluru,Rural,"Cooked Food",Overproduction,51.00
+2025-02-24,Chennai,Urban," Packed Food","Event Leftover",52.00
+2025-02-25,Kolkata,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-02-26,Mumbai,Rural,"Cooked Food","Improper Storage",50.00
+2025-02-27,pune,Urban,"Raw Vegetables",Overproduction,51.00
+2025-02-28,Hyderabad,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-03-01,Dehli,Rural,"Cooked Food","Low Demand",53.00
+2025-03-02,Ahmedabad,Urban," Packed Food","Improper Storage",50.00
+2025-03-03,Bengaluru,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-03-04,Chennai,Rural,"Cooked Food","Event Leftover",52.00
+2025-03-05,Kolkata,Urban,"Raw Vegetables","Low Demand",53.00
+2025-03-06,Mumbai,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-03-07,pune,Rural,"Cooked Food",Overproduction,51.00
+2025-03-08,Hyderabad,Urban," Packed Food","Event Leftover",52.00
+2025-03-09,Dehli,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-03-10,Ahmedabad,Rural,"Cooked Food","Improper Storage",50.00
+2025-03-11,Bengaluru,Urban,"Raw Vegetables",Overproduction,51.00
+2025-03-12,Chennai,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-03-13,Kolkata,Rural,"Cooked Food","Low Demand",53.00
+2025-03-14,Mumbai,Urban," Packed Food","Improper Storage",50.00
+2025-03-15,pune,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-03-16,Hyderabad,Rural,"Cooked Food","Event Leftover",52.00
+2025-03-17,Dehli,Urban,"Raw Vegetables","Low Demand",53.00
+2025-03-18,Ahmedabad,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-03-19,Bengaluru,Rural,"Cooked Food",Overproduction,51.00
+2025-03-20,Chennai,Urban," Packed Food","Event Leftover",52.00
+2025-03-21,Kolkata,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-03-22,Mumbai,Rural,"Cooked Food","Improper Storage",50.00
+2025-03-23,pune,Urban,"Raw Vegetables",Overproduction,51.00
+2025-03-24,Hyderabad,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-03-25,Dehli,Rural,"Cooked Food","Low Demand",53.00
+2025-03-26,Ahmedabad,Urban," Packed Food","Improper Storage",50.00
+2025-03-27,Bengaluru,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-03-28,Chennai,Rural,"Cooked Food","Event Leftover",52.00
+2025-03-29,Kolkata,Urban,"Raw Vegetables","Low Demand",53.00
+2025-03-30,Mumbai,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-03-31,pune,Rural,"Cooked Food",Overproduction,51.00
+2025-04-01,Hyderabad,Urban," Packed Food","Event Leftover",52.00
+2025-04-02,Dehli,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-04-03,Ahmedabad,Rural,"Cooked Food","Improper Storage",50.00
+2025-04-04,Bengaluru,Urban,"Raw Vegetables",Overproduction,51.00
+2025-04-05,Chennai,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-04-06,Kolkata,Rural,"Cooked Food","Low Demand",53.00
+2025-04-07,Mumbai,Urban," Packed Food","Improper Storage",50.00
+2025-04-08,pune,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-04-09,Hyderabad,Rural,"Cooked Food","Event Leftover",52.00
+2025-04-10,Dehli,Urban,"Raw Vegetables","Low Demand",53.00
+2025-04-11,Ahmedabad,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-04-12,Bengaluru,Rural,"Cooked Food",Overproduction,51.00
+2025-04-13,Chennai,Urban," Packed Food","Event Leftover",52.00
+2025-04-14,Kolkata,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-04-15,Mumbai,Rural,"Cooked Food","Improper Storage",50.00
+2025-04-16,pune,Urban,"Raw Vegetables",Overproduction,51.00
+2025-04-17,Hyderabad,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-04-18,Dehli,Rural,"Cooked Food","Low Demand",53.00
+2025-04-19,Ahmedabad,Urban," Packed Food","Improper Storage",50.00
+2025-04-20,Bengaluru,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-04-21,Chennai,Rural,"Cooked Food","Event Leftover",52.00
+2025-04-22,Kolkata,Urban,"Raw Vegetables","Low Demand",53.00
+2025-04-23,Mumbai,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-04-24,pune,Rural,"Cooked Food",Overproduction,51.00
+2025-04-25,Hyderabad,Urban," Packed Food","Event Leftover",52.00
+2025-04-26,Dehli,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-04-27,Ahmedabad,Rural,"Cooked Food","Improper Storage",50.00
+2025-04-28,Bengaluru,Urban,"Raw Vegetables",Overproduction,51.00
+2025-04-29,Chennai,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-04-30,Kolkata,Rural,"Cooked Food","Low Demand",53.00
+2025-05-01,Mumbai,Urban," Packed Food","Improper Storage",50.00
+2025-05-02,pune,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-05-03,Hyderabad,Rural,"Cooked Food","Event Leftover",52.00
+2025-05-04,Dehli,Urban,"Raw Vegetables","Low Demand",53.00
+2025-05-05,Ahmedabad,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-05-06,Bengaluru,Rural,"Cooked Food",Overproduction,51.00
+2025-05-07,Chennai,Urban," Packed Food","Event Leftover",52.00
+2025-05-08,Kolkata,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-05-09,Mumbai,Rural,"Cooked Food","Improper Storage",50.00
+2025-05-10,pune,Urban,"Raw Vegetables",Overproduction,51.00
+2025-05-11,Hyderabad,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-05-12,Dehli,Rural,"Cooked Food","Low Demand",53.00
+2025-05-13,Ahmedabad,Urban," Packed Food","Improper Storage",50.00
+2025-05-14,Bengaluru,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-05-15,Chennai,Rural,"Cooked Food","Event Leftover",52.00
+2025-05-16,Kolkata,Urban,"Raw Vegetables","Low Demand",53.00
+2025-05-17,Mumbai,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-05-18,pune,Rural,"Cooked Food",Overproduction,51.00
+2025-05-19,Hyderabad,Urban," Packed Food","Event Leftover",52.00
+2025-05-20,Dehli,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-05-21,Ahmedabad,Rural,"Cooked Food","Improper Storage",50.00
+2025-05-22,Bengaluru,Urban,"Raw Vegetables",Overproduction,51.00
+2025-05-23,Chennai,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-05-24,Kolkata,Rural,"Cooked Food","Low Demand",53.00
+2025-05-25,Mumbai,Urban," Packed Food","Improper Storage",50.00
+2025-05-26,pune,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-05-27,Hyderabad,Rural,"Cooked Food","Event Leftover",52.00
+2025-05-28,Dehli,Urban,"Raw Vegetables","Low Demand",53.00
+2025-05-29,Ahmedabad,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-05-30,Bengaluru,Rural,"Cooked Food",Overproduction,51.00
+2025-05-31,Chennai,Urban," Packed Food","Event Leftover",52.00
+2025-06-01,Kolkata,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-06-02,Mumbai,Rural,"Cooked Food","Improper Storage",50.00
+2025-06-03,pune,Urban,"Raw Vegetables",Overproduction,51.00
+2025-06-04,Hyderabad,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-06-05,Dehli,Rural,"Cooked Food","Low Demand",53.00
+2025-06-06,Ahmedabad,Urban," Packed Food","Improper Storage",50.00
+2025-06-07,Bengaluru,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-06-08,Chennai,Rural,"Cooked Food","Event Leftover",52.00
+2025-06-09,Kolkata,Urban,"Raw Vegetables","Low Demand",53.00
+2025-06-10,Mumbai,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-06-11,pune,Rural,"Cooked Food",Overproduction,51.00
+2025-06-12,Hyderabad,Urban," Packed Food","Event Leftover",52.00
+2025-06-13,Dehli,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-06-14,Ahmedabad,Rural,"Cooked Food","Improper Storage",50.00
+2025-06-15,Bengaluru,Urban,"Raw Vegetables",Overproduction,51.00
+2025-06-16,Chennai,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-06-17,Kolkata,Rural,"Cooked Food","Low Demand",53.00
+2025-06-18,Mumbai,Urban," Packed Food","Improper Storage",50.00
+2025-06-19,pune,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-06-20,Hyderabad,Rural,"Cooked Food","Event Leftover",52.00
+2025-06-21,Dehli,Urban,"Raw Vegetables","Low Demand",53.00
+2025-06-22,Ahmedabad,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-06-23,Bengaluru,Rural,"Cooked Food",Overproduction,51.00
+2025-06-24,Chennai,Urban," Packed Food","Event Leftover",52.00
+2025-06-25,Kolkata,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-06-26,Mumbai,Rural,"Cooked Food","Improper Storage",50.00
+2025-06-27,pune,Urban,"Raw Vegetables",Overproduction,51.00
+2025-06-28,Hyderabad,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-06-29,Dehli,Rural,"Cooked Food","Low Demand",53.00
+2025-06-30,Ahmedabad,Urban," Packed Food","Improper Storage",50.00
+2025-07-01,Bengaluru,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-07-02,Chennai,Rural,"Cooked Food","Event Leftover",52.00
+2025-07-03,Kolkata,Urban,"Raw Vegetables","Low Demand",53.00
+2025-07-04,Mumbai,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-07-05,pune,Rural,"Cooked Food",Overproduction,51.00
+2025-07-06,Hyderabad,Urban," Packed Food","Event Leftover",52.00
+2025-07-07,Dehli,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-07-08,Ahmedabad,Rural,"Cooked Food","Improper Storage",50.00
+2025-07-09,Bengaluru,Urban,"Raw Vegetables",Overproduction,51.00
+2025-07-10,Chennai,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-07-11,Kolkata,Rural,"Cooked Food","Low Demand",53.00
+2025-07-12,Mumbai,Urban," Packed Food","Improper Storage",50.00
+2025-07-13,pune,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-07-14,Hyderabad,Rural,"Cooked Food","Event Leftover",52.00
+2025-07-15,Dehli,Urban,"Raw Vegetables","Low Demand",53.00
+2025-07-16,Ahmedabad,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-07-17,Bengaluru,Rural,"Cooked Food",Overproduction,51.00
+2025-07-18,Chennai,Urban," Packed Food","Event Leftover",52.00
+2025-07-19,Kolkata,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-07-20,Mumbai,Rural,"Cooked Food","Improper Storage",50.00
+2025-07-21,pune,Urban,"Raw Vegetables",Overproduction,51.00
+2025-07-22,Hyderabad,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-07-23,Dehli,Rural,"Cooked Food","Low Demand",53.00
+2025-07-24,Ahmedabad,Urban," Packed Food","Improper Storage",50.00
+2025-07-25,Bengaluru,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-07-26,Chennai,Rural,"Cooked Food","Event Leftover",52.00
+2025-07-27,Kolkata,Urban,"Raw Vegetables","Low Demand",53.00
+2025-07-28,Mumbai,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-07-29,pune,Rural,"Cooked Food",Overproduction,51.00
+2025-07-30,Hyderabad,Urban," Packed Food","Event Leftover",52.00
+2025-07-31,Dehli,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-08-01,Ahmedabad,Rural,"Cooked Food","Improper Storage",50.00
+2025-08-02,Bengaluru,Urban,"Raw Vegetables",Overproduction,51.00
+2025-08-03,Chennai,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-08-04,Kolkata,Rural,"Cooked Food","Low Demand",53.00
+2025-08-05,Mumbai,Urban," Packed Food","Improper Storage",50.00
+2025-08-06,pune,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-08-07,Hyderabad,Rural,"Cooked Food","Event Leftover",52.00
+2025-08-08,Dehli,Urban,"Raw Vegetables","Low Demand",53.00
+2025-08-09,Ahmedabad,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-08-10,Bengaluru,Rural,"Cooked Food",Overproduction,51.00
+2025-08-11,Chennai,Urban," Packed Food","Event Leftover",52.00
+2025-08-12,Kolkata,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-08-13,Mumbai,Rural,"Cooked Food","Improper Storage",50.00
+2025-08-14,pune,Urban,"Raw Vegetables",Overproduction,51.00
+2025-08-15,Hyderabad,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-08-16,Dehli,Rural,"Cooked Food","Low Demand",53.00
+2025-08-17,Ahmedabad,Urban," Packed Food","Improper Storage",50.00
+2025-08-18,Bengaluru,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-08-19,Chennai,Rural,"Cooked Food","Event Leftover",52.00
+2025-08-20,Kolkata,Urban,"Raw Vegetables","Low Demand",53.00
+2025-08-21,Mumbai,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-08-22,pune,Rural,"Cooked Food",Overproduction,51.00
+2025-08-23,Hyderabad,Urban," Packed Food","Event Leftover",52.00
+2025-08-24,Dehli,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-08-25,Ahmedabad,Rural,"Cooked Food","Improper Storage",50.00
+2025-08-26,Bengaluru,Urban,"Raw Vegetables",Overproduction,51.00
+2025-08-27,Chennai,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-08-28,Kolkata,Rural,"Cooked Food","Low Demand",53.00
+2025-08-29,Mumbai,Urban," Packed Food","Improper Storage",50.00
+2025-08-30,pune,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-08-31,Hyderabad,Rural,"Cooked Food","Event Leftover",52.00
+2025-09-01,Dehli,Urban,"Raw Vegetables","Low Demand",53.00
+2025-09-02,Ahmedabad,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-09-03,Bengaluru,Rural,"Cooked Food",Overproduction,51.00
+2025-09-04,Chennai,Urban," Packed Food","Event Leftover",52.00
+2025-09-05,Kolkata,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-09-06,Mumbai,Rural,"Cooked Food","Improper Storage",50.00
+2025-09-07,pune,Urban,"Raw Vegetables",Overproduction,51.00
+2025-09-08,Hyderabad,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-09-09,Dehli,Rural,"Cooked Food","Low Demand",53.00
+2025-09-10,Ahmedabad,Urban," Packed Food","Improper Storage",50.00
+2025-09-11,Bengaluru,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-09-12,Chennai,Rural,"Cooked Food","Event Leftover",52.00
+2025-09-13,Kolkata,Urban,"Raw Vegetables","Low Demand",53.00
+2025-09-14,Mumbai,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-09-15,pune,Rural,"Cooked Food",Overproduction,51.00
+2025-09-16,Hyderabad,Urban," Packed Food","Event Leftover",52.00
+2025-09-17,Dehli,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-09-18,Ahmedabad,Rural,"Cooked Food","Improper Storage",50.00
+2025-09-19,Bengaluru,Urban,"Raw Vegetables",Overproduction,51.00
+2025-09-20,Chennai,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-09-21,Kolkata,Rural,"Cooked Food","Low Demand",53.00
+2025-09-22,Mumbai,Urban," Packed Food","Improper Storage",50.00
+2025-09-23,pune,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-09-24,Hyderabad,Rural,"Cooked Food","Event Leftover",52.00
+2025-09-25,Dehli,Urban,"Raw Vegetables","Low Demand",53.00
+2025-09-26,Ahmedabad,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-09-27,Bengaluru,Rural,"Cooked Food",Overproduction,51.00
+2025-09-28,Chennai,Urban," Packed Food","Event Leftover",52.00
+2025-09-29,Kolkata,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-09-30,Mumbai,Rural,"Cooked Food","Improper Storage",50.00
+2025-10-01,pune,Urban,"Raw Vegetables",Overproduction,51.00
+2025-10-02,Hyderabad,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-10-03,Dehli,Rural,"Cooked Food","Low Demand",53.00
+2025-10-04,Ahmedabad,Urban," Packed Food","Improper Storage",50.00
+2025-10-05,Bengaluru,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-10-06,Chennai,Rural,"Cooked Food","Event Leftover",52.00
+2025-10-07,Kolkata,Urban,"Raw Vegetables","Low Demand",53.00
+2025-10-08,Mumbai,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-10-09,pune,Rural,"Cooked Food",Overproduction,51.00
+2025-10-10,Hyderabad,Urban," Packed Food","Event Leftover",52.00
+2025-10-11,Dehli,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-10-12,Ahmedabad,Rural,"Cooked Food","Improper Storage",50.00
+2025-10-13,Bengaluru,Urban,"Raw Vegetables",Overproduction,51.00
+2025-10-14,Chennai,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-10-15,Kolkata,Rural,"Cooked Food","Low Demand",53.00
+2025-10-16,Mumbai,Urban," Packed Food","Improper Storage",50.00
+2025-10-17,pune,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-10-18,Hyderabad,Rural,"Cooked Food","Event Leftover",52.00
+2025-10-19,Dehli,Urban,"Raw Vegetables","Low Demand",53.00
+2025-10-20,Ahmedabad,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-10-21,Bengaluru,Rural,"Cooked Food",Overproduction,51.00
+2025-10-22,Chennai,Urban," Packed Food","Event Leftover",52.00
+2025-10-23,Kolkata,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-10-24,Mumbai,Rural,"Cooked Food","Improper Storage",50.00
+2025-10-25,pune,Urban,"Raw Vegetables",Overproduction,51.00
+2025-10-26,Hyderabad,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-10-27,Dehli,Rural,"Cooked Food","Low Demand",53.00
+2025-10-28,Ahmedabad,Urban," Packed Food","Improper Storage",50.00
+2025-10-29,Bengaluru,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-10-30,Chennai,Rural,"Cooked Food","Event Leftover",52.00
+2025-10-31,Kolkata,Urban,"Raw Vegetables","Low Demand",53.00
+2025-11-01,Mumbai,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-11-02,pune,Rural,"Cooked Food",Overproduction,51.00
+2025-11-03,Hyderabad,Urban," Packed Food","Event Leftover",52.00
+2025-11-04,Dehli,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-11-05,Ahmedabad,Rural,"Cooked Food","Improper Storage",50.00
+2025-11-06,Bengaluru,Urban,"Raw Vegetables",Overproduction,51.00
+2025-11-07,Chennai,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-11-08,Kolkata,Rural,"Cooked Food","Low Demand",53.00
+2025-11-09,Mumbai,Urban," Packed Food","Improper Storage",50.00
+2025-11-10,pune,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-11-11,Hyderabad,Rural,"Cooked Food","Event Leftover",52.00
+2025-11-12,Dehli,Urban,"Raw Vegetables","Low Demand",53.00
+2025-11-13,Ahmedabad,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-11-14,Bengaluru,Rural,"Cooked Food",Overproduction,51.00
+2025-11-15,Chennai,Urban," Packed Food","Event Leftover",52.00
+2025-11-16,Kolkata,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-11-17,Mumbai,Rural,"Cooked Food","Improper Storage",50.00
+2025-11-18,pune,Urban,"Raw Vegetables",Overproduction,51.00
+2025-11-19,Hyderabad,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-11-20,Dehli,Rural,"Cooked Food","Low Demand",53.00
+2025-11-21,Ahmedabad,Urban," Packed Food","Improper Storage",50.00
+2025-11-22,Bengaluru,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-11-23,Chennai,Rural,"Cooked Food","Event Leftover",52.00
+2025-11-24,Kolkata,Urban,"Raw Vegetables","Low Demand",53.00
+2025-11-25,Mumbai,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-11-26,pune,Rural,"Cooked Food",Overproduction,51.00
+2025-11-27,Hyderabad,Urban," Packed Food","Event Leftover",52.00
+2025-11-28,Dehli,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-11-29,Ahmedabad,Rural,"Cooked Food","Improper Storage",50.00
+2025-11-30,Bengaluru,Urban,"Raw Vegetables",Overproduction,51.00
+2025-12-01,Chennai,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-12-02,Kolkata,Rural,"Cooked Food","Low Demand",53.00
+2025-12-03,Mumbai,Urban," Packed Food","Improper Storage",50.00
+2025-12-04,pune,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-12-05,Hyderabad,Rural,"Cooked Food","Event Leftover",52.00
+2025-12-06,Dehli,Urban,"Raw Vegetables","Low Demand",53.00
+2025-12-07,Ahmedabad,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-12-08,Bengaluru,Rural,"Cooked Food",Overproduction,51.00
+2025-12-09,Chennai,Urban," Packed Food","Event Leftover",52.00
+2025-12-10,Kolkata,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-12-11,Mumbai,Rural,"Cooked Food","Improper Storage",50.00
+2025-12-12,pune,Urban,"Raw Vegetables",Overproduction,51.00
+2025-12-13,Hyderabad,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-12-14,Dehli,Rural,"Cooked Food","Low Demand",53.00
+2025-12-15,Ahmedabad,Urban," Packed Food","Improper Storage",50.00
+2025-12-16,Bengaluru,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-12-17,Chennai,Rural,"Cooked Food","Event Leftover",52.00
+2025-12-18,Kolkata,Urban,"Raw Vegetables","Low Demand",53.00
+2025-12-19,Mumbai,Semi-Urban,Fruits,"Improper Storage",50.00
+2025-12-20,pune,Rural,"Cooked Food",Overproduction,51.00
+2025-12-21,Hyderabad,Urban," Packed Food","Event Leftover",52.00
+2025-12-22,Dehli,Semi-Urban,"Cooked Food","Low Demand",53.00
+2025-12-23,Ahmedabad,Rural,"Cooked Food","Improper Storage",50.00
+2025-12-24,Bengaluru,Urban,"Raw Vegetables",Overproduction,51.00
+2025-12-25,Chennai,Semi-Urban,Fruits,"Event Leftover",52.00
+2025-12-26,Kolkata,Rural,"Cooked Food","Low Demand",53.00
+2025-12-27,Mumbai,Urban," Packed Food","Improper Storage",50.00
+2025-12-28,pune,Semi-Urban,"Cooked Food",Overproduction,51.00
+2025-12-29,Hyderabad,Rural,"Cooked Food","Event Leftover",52.00
+2025-12-30,Dehli,Urban,"Raw Vegetables","Low Demand",53.00
+2025-12-31,Ahmedabad,Semi-Urban,Fruits,"Improper Storage",50.00
+2026-01-01,Bengaluru,Rural,"Cooked Food",Overproduction,51.00
+2026-01-02,Chennai,Urban," Packed Food","Event Leftover",52.00
+2026-01-03,Kolkata,Semi-Urban,"Cooked Food","Low Demand",53.00
+2026-01-04,Mumbai,Rural,"Cooked Food","Improper Storage",50.00
+2026-01-05,pune,Urban,"Raw Vegetables",Overproduction,51.00
+2026-01-06,Hyderabad,Semi-Urban,Fruits,"Event Leftover",52.00
+2026-01-07,Dehli,Rural,"Cooked Food","Low Demand",53.00
+2026-01-08,Ahmedabad,Urban," Packed Food","Improper Storage",50.00
+2026-01-09,Bengaluru,Semi-Urban,"Cooked Food",Overproduction,51.00
+2026-01-10,Chennai,Rural,"Cooked Food","Event Leftover",52.00
+2026-01-11,Kolkata,Urban,"Raw Vegetables","Low Demand",53.00
+2026-01-12,Mumbai,Semi-Urban,Fruits,"Improper Storage",50.00
+2026-01-13,pune,Rural,"Cooked Food",Overproduction,51.00
+2026-01-14,Hyderabad,Urban," Packed Food","Event Leftover",52.00
+2026-01-15,Dehli,Semi-Urban,"Cooked Food","Low Demand",53.00
+2026-01-16,Ahmedabad,Rural,"Cooked Food","Improper Storage",50.00
+2026-01-17,Bengaluru,Urban,"Raw Vegetables",Overproduction,51.00
+2026-01-18,Chennai,Semi-Urban,Fruits,"Event Leftover",52.00
+2026-01-19,Kolkata,Rural,"Cooked Food","Low Demand",53.00
+2026-01-20,Mumbai,Urban," Packed Food","Improper Storage",50.00
+2026-01-21,pune,Semi-Urban,"Cooked Food",Overproduction,51.00
+2026-01-22,Hyderabad,Rural,"Cooked Food","Event Leftover",52.00
+2026-01-23,Dehli,Urban,"Raw Vegetables","Low Demand",53.00
+2026-01-24,Ahmedabad,Semi-Urban,Fruits,"Improper Storage",50.00
+2026-01-25,Bengaluru,Rural,"Cooked Food",Overproduction,51.00
+2026-01-26,Chennai,Urban," Packed Food","Event Leftover",52.00
+2026-01-27,Kolkata,Semi-Urban,"Cooked Food","Low Demand",53.00
+2026-01-28,Mumbai,Rural,"Cooked Food","Improper Storage",50.00
+2026-01-29,pune,Urban,"Raw Vegetables",Overproduction,51.00
+2026-01-30,Hyderabad,Semi-Urban,Fruits,"Event Leftover",52.00
+2026-01-31,Dehli,Rural,"Cooked Food","Low Demand",53.00
+2026-02-01,Ahmedabad,Urban," Packed Food","Improper Storage",50.00
