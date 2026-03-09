@@ -62,8 +62,5 @@ By using Python, SQL, and Power BI, the project provides meaningful insights thr
 The results highlight the importance of data-driven decision making for improving food waste management and promoting more sustainable practices.
 
 
-## Author
-
-Data Analysis Project created as part of a learning and internship portfolio.
 
 
